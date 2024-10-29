@@ -1,0 +1,11 @@
+Model Information:
+* title:	Person
+* source:	https://sketchfab.com/3d-models/person-9797c1181cdf43658631c475b4edd994
+* author:	PrintTheFuture (https://sketchfab.com/printthefuture)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Person" (https://sketchfab.com/3d-models/person-9797c1181cdf43658631c475b4edd994) by PrintTheFuture (https://sketchfab.com/printthefuture) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
